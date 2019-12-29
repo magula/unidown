@@ -1,0 +1,42 @@
+<!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2019 Manuel Gundlach <manuel.gundlach@gmail.com>
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+
+<resources>
+    <string name="app_name">Unidown</string>
+    <string name="send_to">Open with</string>
+    <string name="newdocument">New document</string>
+    <string name="action_sets">Anchor</string>
+
+    <string name="neuer_anker">New Anchor</string>
+    <string name="titel">Titel</string>
+    <string name="feste_webadresse">Fixed web address</string>
+    <string name="webadresse_mit_wechselnder_nummer">Web address with a variable</string>
+    <string name="edittexturl_hint">Url\n####: Wildcard for a 2-digit number with leading zero (e.g., 14, 09)\n%%%%: Wildcard for a number without leading zero (e.g., 14, 9)</string>
+    <string name="ok">OK</string>
+    <string name="action_impressum">Impressum &amp; Datenschutzerklärung</string>
+
+    <string name="authentication_required">Authentication required</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+</resources>
